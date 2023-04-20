@@ -1,0 +1,81 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+table{  
+    border-collapse: collapse;
+}
+
+tr{
+    border: 1px solid #DDDDDD;
+}
+
+.libert{
+    color: #003366;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 5px 10px;
+    text-align: center;
+}
+.prelibert{
+    color: #1398BE;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 5px 10px;
+}
+.sulamer{
+    color: #DE9800;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 5px 10px;
+}
+.rebaixados{
+    color: #C91B04;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 5px 10px;
+}
+
+.times{
+    padding-right: 100px;
+    font-size: 14px;
+    color: #666666;
+
+}
+
+.alinhamentoth{
+    font-size: 13px;
+    color: #999999;
+    font-weight: bold;
+    text-align: center;
+    padding: 5px 10px;
+}
+.alinhamentotd{
+    font-size: 14px;
+    color: #666666;
+    text-align: center;
+    padding: 5px 10px;
+}
+
+.p{
+    font-size: 13px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    padding: 5px 10px;
+}
+
+.rodape1{
+    font-size: 10px;
+    color: #8F8F8F;
+    text-align: left;
+}
+.rodape2{
+
+}
+
+.imgrodape{
+    width: 12px;
+    margin: 2px;
+}
