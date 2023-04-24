@@ -11,37 +11,50 @@ tr{
     border: 1px solid #DDDDDD;
 }
 
-.libert{
-    color: #003366;
+td{
+    height: 25px;
+    width:25px;
+}
+th{
+    height: 25px;
+    width:25px;
+}
+
+.headcoluna{
+    height: 25px;
+    width: 50px;
     font-size: 18px;
     font-weight: bold;
-    padding: 5px 10px;
     text-align: center;
+}
+
+.aproveitamento{
+    height: 25px;
+    width: 50px;
+    text-align: center;
+}
+
+.libert{
+    color: #003366;
+
 }
 .prelibert{
     color: #1398BE;
-    font-size: 18px;
-    font-weight: bold;
-    padding: 5px 10px;
 }
 .sulamer{
     color: #DE9800;
-    font-size: 18px;
-    font-weight: bold;
-    padding: 5px 10px;
+}
+.prerebaixados{
+    color: #CCCCCC;
 }
 .rebaixados{
     color: #C91B04;
-    font-size: 18px;
-    font-weight: bold;
-    padding: 5px 10px;
 }
 
 .times{
-    padding-right: 100px;
+    padding-right: 75px;
     font-size: 14px;
     color: #666666;
-
 }
 
 .alinhamentoth{
@@ -64,18 +77,25 @@ tr{
     font-weight: bold;
     text-align: center;
     padding: 5px 10px;
+    
 }
 
 .rodape1{
     font-size: 10px;
     color: #8F8F8F;
     text-align: left;
+    align-content: center;
 }
 .rodape2{
-
+    font-size: 10px;
+    color: #8F8F8F;
 }
 
-.imgrodape{
-    width: 12px;
-    margin: 2px;
+
+.zebrado{
+    background-color: #F7F7F7;
+}
+
+.seplinhas{
+    border-bottom: 2px solid #CCCCCC;
 }
